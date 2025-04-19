@@ -88,4 +88,4 @@ To play your animations simply click on the play button in the top right corner.
 - You might have to click on the star icon in the top left corner in the WLED GUI to enable WLED to receive live UDP data
 
 # Important notes
-- *!!! The entire electron 'node_module' folder is not included in the source file due to large file sizes [.gitnore](https://github.com/RolandDaum/WLED-FAP/blob/master/.gitignore) !!!*
+- *!!! The entire electron 'node_module' folder is not included in the source file due to large file sizes [.gitignore](https://github.com/RolandDaum/WLED-FAP/blob/master/.gitignore) !!!*
